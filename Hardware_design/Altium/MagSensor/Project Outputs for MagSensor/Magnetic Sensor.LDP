@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\HelmHoltz\Magnetic Sensor.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=magnetic sensor-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=magnetic sensor-nonplated.txt|DrillLayers=gtl,gbl

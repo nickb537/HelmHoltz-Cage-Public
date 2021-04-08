@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=P1 Old Footprint=phono-jack New Footprint=MJ-3536NG
+Change Component Comment : Designator=P1 Old Comment=1/4 conn New Comment=audio_jack

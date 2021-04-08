@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Projects\HelmHoltz\Controller_driver\Controller_driver.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

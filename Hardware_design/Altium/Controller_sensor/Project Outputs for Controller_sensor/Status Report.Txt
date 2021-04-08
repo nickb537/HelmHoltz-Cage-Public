@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Controller_sensor.PrjPcb]
+   Generated File[Controller_sensor.TXT]
+   Generated File[Controller_sensor.LDP]
+   Generated File[Controller_sensor.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:32:33 AM On 10/9/2020

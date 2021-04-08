@@ -1,0 +1,112 @@
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=Sense_amp Pin=C4-2
+Removed Pin From Net: NetName=NetR1_1 Pin=U2-1
+Removed Pin From Net: NetName=NetR1_1 Pin=U2-2
+Removed Pin From Net: NetName=NetC5_2 Pin=U2-3
+Removed Pin From Net: NetName=-5V Pin=U2-4
+Removed Pin From Net: NetName=set Pin=U2-5
+Removed Pin From Net: NetName=NetR2_1 Pin=U2-6
+Removed Pin From Net: NetName=NetR41_1 Pin=U2-7
+Removed Pin From Net: NetName=5V Pin=U2-8
+Removed Pin From Net: NetName=sense Pin=U15-9
+Removed Pin From Net: NetName=NetR2_1 Pin=U16-1
+Removed Pin From Net: NetName=NetR37_1 Pin=U16-2
+Removed Pin From Net: NetName=sense Pin=U16-3
+Removed Pin From Net: NetName=-5V Pin=U16-4
+Removed Pin From Net: NetName=NetC35_2 Pin=U16-5
+Removed Pin From Net: NetName=NetR10_1 Pin=U16-6
+Removed Pin From Net: NetName=NetR10_1 Pin=U16-7
+Removed Pin From Net: NetName=5V Pin=U16-8
+Removed Pin From Net: NetName=set Pin=U17-1
+Removed Member From Class: ClassName=Controller_driver Member=C4
+Removed Member From Class: ClassName=Controller_driver Member=U2
+Removed Member From Class: ClassName=Controller_driver Member=U16
+Change Component Footprint: Designator=R1 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1609X50X30LL10T20
+Change Component Comment : Designator=R1 Old Comment=150 New Comment=220
+Change Managed Component Library Link : Designator=R1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=533319C8-5B11-480D-BBD4-AECF424C96AE New ItemGUID=1FF9C5A1-C763-4650-8E88-F50FB50C4A85 Old RevisionGUID=A927802F-8B78-4410-8018-A759533C4325 New RevisionGUID=8712B45D-8EF1-4FE1-8059-9E89DABDC8E4
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC1608X55X25ML10T15"; UniqueID = "\SRADEWRF" ("\SRADEWRF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0603220RFKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1609X50X30LL10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603220RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1609X50X30LL10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603220RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC1609X50X30LL10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603220RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=U1(D0014A_N)
+Add component (AddParameter): Name = "Channel"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = "69"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/tlv274.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ml/mpds177g/mpds177g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLOS351D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gain Bandwidth"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IIB(Max)(pA)"; Value = "60"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "0.55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "14-Pin Plastic Small Outline, Body 8.65 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "D0014A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4040047-5/M, 06/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "LARGE T&R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TLV274IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "2.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub Family"; Value = "Low Supply Voltage Amplifier (<=2.7V), Precision Amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Min"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = "2.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio (25C)(Max)(mV)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vmax(V)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vmin(V)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vn at 1kHz(Typ)(nV/rtHz)"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=Sense_amp Pin=R3-2
+Added Pin To Net: NetName=sense Pin=R4-2
+Added Pin To Net: NetName=set Pin=R5-2
+Added Pin To Net: NetName=NetR2_1 Pin=U1-1
+Added Pin To Net: NetName=NetR37_1 Pin=U1-2
+Added Pin To Net: NetName=sense Pin=U1-3
+Added Pin To Net: NetName=5V Pin=U1-4
+Added Pin To Net: NetName=NetC5_2 Pin=U1-5
+Added Pin To Net: NetName=NetR1_1 Pin=U1-6
+Added Pin To Net: NetName=NetR1_1 Pin=U1-7
+Added Pin To Net: NetName=NetR10_1 Pin=U1-8
+Added Pin To Net: NetName=NetR10_1 Pin=U1-9
+Added Pin To Net: NetName=NetC35_2 Pin=U1-10
+Added Pin To Net: NetName=-5V Pin=U1-11
+Added Pin To Net: NetName=set Pin=U1-12
+Added Pin To Net: NetName=NetR2_1 Pin=U1-13
+Added Pin To Net: NetName=NetR41_1 Pin=U1-14
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U15-9
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U17-1
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=Controller_driver Member=Component R3 220
+Added Member To Class: ClassName=Controller_driver Member=Component R4 220
+Added Member To Class: ClassName=Controller_driver Member=Component R5 220
+Added Member To Class: ClassName=Controller_driver Member=Component U1 TLV274IDR

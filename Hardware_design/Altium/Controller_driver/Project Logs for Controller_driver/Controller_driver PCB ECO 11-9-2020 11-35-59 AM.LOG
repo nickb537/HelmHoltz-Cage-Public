@@ -1,0 +1,176 @@
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=Sense_amp Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=out Pin=R13-2
+Removed Pin From Net: NetName=set Pin=R41-1
+Removed Pin From Net: NetName=NetC35_2 Pin=U16-5
+Removed Pin From Net: NetName=NetR10_1 Pin=U16-7
+Change Component Footprint: Designator=R1 Old Footprint=RESC1608X55X30LL15T15 New Footprint=RESC1608X55X25ML10T15
+Change Component Footprint: Designator=R13 Old Footprint=RESC1608X55X30ML15T15 New Footprint=RESC1608X55X30ML15T15
+Change Component Footprint: Designator=R10 Old Footprint=RESC1608X55X30ML15T15 New Footprint=RESC1608X55X30LL20T20
+Change Component Comment : Designator=R1 Old Comment=1 kO New Comment=150
+Change Component Comment : Designator=R13 Old Comment=200 New Comment=470
+Change Component Comment : Designator=R10 Old Comment=422 New Comment=1 kO
+Added Component: Designator=C4(CAPC1608X90X35ML10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C474KA88D"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC1608X90X35ML10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C474KA88D"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC1609X55X30LL15T15)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "02/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 1.6 x 0.85 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "NoSVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm\/degreesC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.031inch"; VariantName = "[No Variations]"
+Added Component: Designator=U1(D0008A_N)
+Add component (AddParameter): Name = "Channel"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/tle2022.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/msoi002j"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLOS191D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gain Bandwidth"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = "1.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IIB(Max)(pA)"; Value = "70000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "D0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4040047-3/M, 06/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "TUBE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TLE2022CD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub Family"; Value = "High Supply Voltage Amplifier (>=30V), Low Offset Voltage Amplifier (<=500uV), Low Power Amp (<=500uA), Precision Amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Min"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio (25C)(Max)(mV)"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vmax(V)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vmin(V)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vn at 1kHz(Typ)(nV/rtHz)"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(D0008A_N)
+Add component (AddParameter): Name = "Channel"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/tle2022.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/msoi002j"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLOS191D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gain Bandwidth"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = "1.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IIB(Max)(pA)"; Value = "70000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "D0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4040047-3/M, 06/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "TUBE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TLE2022CD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub Family"; Value = "High Supply Voltage Amplifier (>=30V), Low Offset Voltage Amplifier (<=500uV), Low Power Amp (<=500uA), Precision Amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Min"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio (25C)(Max)(mV)"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vmax(V)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vmin(V)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vn at 1kHz(Typ)(nV/rtHz)"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=Sense_amp Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=Sense_amp Pin=R1-2
+Added Pin To Net: NetName=out Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=-5V Pin=U1-4
+Added Pin To Net: NetName=NetC35_2 Pin=U1-5
+Added Pin To Net: NetName=NetR10_1 Pin=U1-6
+Added Pin To Net: NetName=NetR10_1 Pin=U1-7
+Added Pin To Net: NetName=5V Pin=U1-8
+Added Pin To Net: NetName=-5V Pin=U2-4
+Added Pin To Net: NetName=set Pin=U2-5
+Added Pin To Net: NetName=5V Pin=U2-8
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R2-2
+Added Pin To Net: NetName=NetC5_2 Pin=U1-3
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R38-2
+Added Pin To Net: NetName=NetR2_1 Pin=U2-6
+Added Pin To Net: NetName=NetR2_1 Pin=U16-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR41_1 Pin=R41-1
+Added Pin To Net: NetName=NetR41_1 Pin=U2-7
+Added Net: Name=NetR41_1
+Added Member To Class: ClassName=Controller_driver Member=Component C4 0.47 uF
+Added Member To Class: ClassName=Controller_driver Member=Component C5 0.47 uF
+Added Member To Class: ClassName=Controller_driver Member=Component R2 10KOhm
+Added Member To Class: ClassName=Controller_driver Member=Component U1 TLE2022CD
+Added Member To Class: ClassName=Controller_driver Member=Component U2 TLE2022CD

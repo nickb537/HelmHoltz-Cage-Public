@@ -1,0 +1,167 @@
+Removed Pin From Net: NetName=SPI_SCLK Pin=PL1-1
+Removed Pin From Net: NetName=SPI_MOSI Pin=PL1-2
+Removed Pin From Net: NetName=CS_0 Pin=PL1-3
+Removed Pin From Net: NetName=CS_1 Pin=PL1-4
+Removed Pin From Net: NetName=CS_2 Pin=PL1-5
+Removed Pin From Net: NetName=CS_3 Pin=PL1-6
+Removed Pin From Net: NetName=CS_4 Pin=PL1-7
+Removed Pin From Net: NetName=CS_5 Pin=PL1-8
+Removed Pin From Net: NetName=CS_6 Pin=PL1-9
+Removed Pin From Net: NetName=GND Pin=PL1-10
+Removed Pin From Net: NetName=SPI_SCLK Pin=PL2-1
+Removed Pin From Net: NetName=SPI_MOSI Pin=PL2-2
+Removed Pin From Net: NetName=CS_0 Pin=PL2-3
+Removed Pin From Net: NetName=CS_1 Pin=PL2-4
+Removed Pin From Net: NetName=CS_2 Pin=PL2-5
+Removed Pin From Net: NetName=CS_3 Pin=PL2-6
+Removed Pin From Net: NetName=CS_4 Pin=PL2-7
+Removed Pin From Net: NetName=CS_5 Pin=PL2-8
+Removed Pin From Net: NetName=CS_6 Pin=PL2-9
+Removed Pin From Net: NetName=GND Pin=PL2-10
+Removed Pin From Net: NetName=5V Pin=PR1-1
+Removed Pin From Net: NetName=-5V Pin=PR1-2
+Removed Pin From Net: NetName=A_0 Pin=PR1-3
+Removed Pin From Net: NetName=A_1 Pin=PR1-4
+Removed Pin From Net: NetName=A_2 Pin=PR1-5
+Removed Pin From Net: NetName=A_3 Pin=PR1-6
+Removed Pin From Net: NetName=A_4 Pin=PR1-7
+Removed Pin From Net: NetName=A_5 Pin=PR1-8
+Removed Pin From Net: NetName=A_6 Pin=PR1-9
+Removed Pin From Net: NetName=GND Pin=PR1-10
+Removed Pin From Net: NetName=5V Pin=PR2-1
+Removed Pin From Net: NetName=-5V Pin=PR2-2
+Removed Pin From Net: NetName=A_0 Pin=PR2-3
+Removed Pin From Net: NetName=A_1 Pin=PR2-4
+Removed Pin From Net: NetName=A_2 Pin=PR2-5
+Removed Pin From Net: NetName=A_3 Pin=PR2-6
+Removed Pin From Net: NetName=A_4 Pin=PR2-7
+Removed Pin From Net: NetName=A_5 Pin=PR2-8
+Removed Pin From Net: NetName=A_6 Pin=PR2-9
+Removed Pin From Net: NetName=GND Pin=PR2-10
+Removed Member From Class: ClassName=Controller_driver Member=PL1
+Removed Member From Class: ClassName=Controller_driver Member=PL2
+Removed Member From Class: ClassName=Controller_driver Member=PR1
+Removed Member From Class: ClassName=Controller_driver Member=PR2
+Added Component: Designator=JA0(solder_jumper)
+Added Component: Designator=JA1(solder_jumper)
+Added Component: Designator=JA2(solder_jumper)
+Added Component: Designator=JA3(solder_jumper)
+Added Component: Designator=JA4(solder_jumper)
+Added Component: Designator=JA5(solder_jumper)
+Added Component: Designator=JA6(solder_jumper)
+Added Component: Designator=JA+(solder_jumper)
+Added Component: Designator=JA-(solder_jumper)
+Added Component: Designator=JB+(solder_jumper)
+Added Component: Designator=JB-(solder_jumper)
+Added Component: Designator=JC+(solder_jumper)
+Added Component: Designator=JC-(solder_jumper)
+Added Component: Designator=JCS0(solder_jumper)
+Added Component: Designator=JCS1(solder_jumper)
+Added Component: Designator=JCS2(solder_jumper)
+Added Component: Designator=JCS3(solder_jumper)
+Added Component: Designator=JCS4(solder_jumper)
+Added Component: Designator=JCS5(solder_jumper)
+Added Component: Designator=JCS6(solder_jumper)
+Added Component: Designator=P2(dp20-900-double)
+Added Pin To Net: NetName=Sense_amp Pin=JA0-0
+Added Pin To Net: NetName=A_0 Pin=JA0-1
+Added Pin To Net: NetName=Sense_amp Pin=JA1-0
+Added Pin To Net: NetName=A_1 Pin=JA1-1
+Added Pin To Net: NetName=Sense_amp Pin=JA2-0
+Added Pin To Net: NetName=A_2 Pin=JA2-1
+Added Pin To Net: NetName=Sense_amp Pin=JA3-0
+Added Pin To Net: NetName=A_3 Pin=JA3-1
+Added Pin To Net: NetName=Sense_amp Pin=JA4-0
+Added Pin To Net: NetName=A_4 Pin=JA4-1
+Added Pin To Net: NetName=Sense_amp Pin=JA5-0
+Added Pin To Net: NetName=A_5 Pin=JA5-1
+Added Pin To Net: NetName=Sense_amp Pin=JA6-0
+Added Pin To Net: NetName=A_6 Pin=JA6-1
+Added Pin To Net: NetName=+REFA Pin=JA+-0
+Added Pin To Net: NetName=GND Pin=JA+-1
+Added Pin To Net: NetName=-REFA Pin=JA--0
+Added Pin To Net: NetName=GND Pin=JA--1
+Added Pin To Net: NetName=+REFB Pin=JB+-0
+Added Pin To Net: NetName=GND Pin=JB+-1
+Added Pin To Net: NetName=-REFB Pin=JB--0
+Added Pin To Net: NetName=GND Pin=JB--1
+Added Pin To Net: NetName=+REFC Pin=JC+-0
+Added Pin To Net: NetName=GND Pin=JC+-1
+Added Pin To Net: NetName=-REFC Pin=JC--0
+Added Pin To Net: NetName=GND Pin=JC--1
+Added Pin To Net: NetName=CSb Pin=JCS0-0
+Added Pin To Net: NetName=CS_0 Pin=JCS0-1
+Added Pin To Net: NetName=CSb Pin=JCS1-0
+Added Pin To Net: NetName=CS_1 Pin=JCS1-1
+Added Pin To Net: NetName=CSb Pin=JCS2-0
+Added Pin To Net: NetName=CS_2 Pin=JCS2-1
+Added Pin To Net: NetName=CSb Pin=JCS3-0
+Added Pin To Net: NetName=CS_3 Pin=JCS3-1
+Added Pin To Net: NetName=CSb Pin=JCS4-0
+Added Pin To Net: NetName=CS_4 Pin=JCS4-1
+Added Pin To Net: NetName=CSb Pin=JCS5-0
+Added Pin To Net: NetName=CS_5 Pin=JCS5-1
+Added Pin To Net: NetName=CSb Pin=JCS6-0
+Added Pin To Net: NetName=CS_6 Pin=JCS6-1
+Added Pin To Net: NetName=SPI_SCLK Pin=P2-1
+Added Pin To Net: NetName=SPI_SCLK Pin=P2-1
+Added Pin To Net: NetName=SPI_MOSI Pin=P2-2
+Added Pin To Net: NetName=SPI_MOSI Pin=P2-2
+Added Pin To Net: NetName=CS_0 Pin=P2-3
+Added Pin To Net: NetName=CS_0 Pin=P2-3
+Added Pin To Net: NetName=CS_1 Pin=P2-4
+Added Pin To Net: NetName=CS_1 Pin=P2-4
+Added Pin To Net: NetName=CS_2 Pin=P2-5
+Added Pin To Net: NetName=CS_2 Pin=P2-5
+Added Pin To Net: NetName=CS_3 Pin=P2-6
+Added Pin To Net: NetName=CS_3 Pin=P2-6
+Added Pin To Net: NetName=CS_4 Pin=P2-7
+Added Pin To Net: NetName=CS_4 Pin=P2-7
+Added Pin To Net: NetName=CS_5 Pin=P2-8
+Added Pin To Net: NetName=CS_5 Pin=P2-8
+Added Pin To Net: NetName=CS_6 Pin=P2-9
+Added Pin To Net: NetName=CS_6 Pin=P2-9
+Added Pin To Net: NetName=GND Pin=P2-10
+Added Pin To Net: NetName=GND Pin=P2-10
+Added Pin To Net: NetName=5V Pin=P2-11
+Added Pin To Net: NetName=5V Pin=P2-11
+Added Pin To Net: NetName=-5V Pin=P2-12
+Added Pin To Net: NetName=-5V Pin=P2-12
+Added Pin To Net: NetName=A_0 Pin=P2-13
+Added Pin To Net: NetName=A_0 Pin=P2-13
+Added Pin To Net: NetName=A_1 Pin=P2-14
+Added Pin To Net: NetName=A_1 Pin=P2-14
+Added Pin To Net: NetName=A_2 Pin=P2-15
+Added Pin To Net: NetName=A_2 Pin=P2-15
+Added Pin To Net: NetName=A_3 Pin=P2-16
+Added Pin To Net: NetName=A_3 Pin=P2-16
+Added Pin To Net: NetName=A_4 Pin=P2-17
+Added Pin To Net: NetName=A_4 Pin=P2-17
+Added Pin To Net: NetName=A_5 Pin=P2-18
+Added Pin To Net: NetName=A_5 Pin=P2-18
+Added Pin To Net: NetName=A_6 Pin=P2-19
+Added Pin To Net: NetName=A_6 Pin=P2-19
+Added Pin To Net: NetName=GND Pin=P2-20
+Added Pin To Net: NetName=GND Pin=P2-20
+Added Member To Class: ClassName=Controller_driver Member=Component JA0 *
+Added Member To Class: ClassName=Controller_driver Member=Component JA1 *
+Added Member To Class: ClassName=Controller_driver Member=Component JA2 *
+Added Member To Class: ClassName=Controller_driver Member=Component JA3 *
+Added Member To Class: ClassName=Controller_driver Member=Component JA4 *
+Added Member To Class: ClassName=Controller_driver Member=Component JA5 *
+Added Member To Class: ClassName=Controller_driver Member=Component JA6 *
+Added Member To Class: ClassName=Controller_driver Member=Component JA+ *
+Added Member To Class: ClassName=Controller_driver Member=Component JA- *
+Added Member To Class: ClassName=Controller_driver Member=Component JB+ *
+Added Member To Class: ClassName=Controller_driver Member=Component JB- *
+Added Member To Class: ClassName=Controller_driver Member=Component JC+ *
+Added Member To Class: ClassName=Controller_driver Member=Component JC- *
+Added Member To Class: ClassName=Controller_driver Member=Component JCS0 *
+Added Member To Class: ClassName=Controller_driver Member=Component JCS1 *
+Added Member To Class: ClassName=Controller_driver Member=Component JCS2 *
+Added Member To Class: ClassName=Controller_driver Member=Component JCS3 *
+Added Member To Class: ClassName=Controller_driver Member=Component JCS4 *
+Added Member To Class: ClassName=Controller_driver Member=Component JCS5 *
+Added Member To Class: ClassName=Controller_driver Member=Component JCS6 *
+Added Member To Class: ClassName=Controller_driver Member=Component P2 dp20
+Added Room: Name=Controller_driver

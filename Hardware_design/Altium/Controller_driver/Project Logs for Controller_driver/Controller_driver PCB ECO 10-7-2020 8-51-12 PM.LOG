@@ -1,0 +1,6 @@
+Added Component: Designator=C3(CAPC1608X90X35ML10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C474KA88D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VBIAS Pin=C3-2
+Added Member To Class: ClassName=Controller_driver Member=Component C3 0.47 uF

@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Controller_root.PrjPcb]
+   Generated File[Controller_Root.GTO]
+   Generated File[Controller_Root.GTS]
+   Generated File[Controller_Root.GTL]
+   Generated File[Controller_Root.GBL]
+   Generated File[Controller_Root.GBS]
+   Generated File[Controller_Root.GBO]
+   Generated File[Controller_Root.GM4]
+   Generated File[Controller_Root.RUL]
+   Generated File[Controller_Root.EXTREP]
+   Generated File[Controller_Root.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 3:09:36 PM On 1/18/2021

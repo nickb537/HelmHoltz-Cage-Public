@@ -1,0 +1,18 @@
+Added Component: Designator=P1(phono-jack)
+Added Component: Designator=U15(SOP16-12)
+Added Pin To Net: NetName=out Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=s_P Pin=U15-1
+Added Pin To Net: NetName=+REFA Pin=U15-3
+Added Pin To Net: NetName=+REFB Pin=U15-5
+Added Pin To Net: NetName=+REFC Pin=U15-6
+Added Pin To Net: NetName=VBIAS Pin=U15-7
+Added Pin To Net: NetName=-5V Pin=U15-8
+Added Pin To Net: NetName=sense Pin=U15-9
+Added Pin To Net: NetName=5V Pin=U15-10
+Added Pin To Net: NetName=-REFC Pin=U15-11
+Added Pin To Net: NetName=-REFB Pin=U15-12
+Added Pin To Net: NetName=-REFA Pin=U15-14
+Added Pin To Net: NetName=s_N Pin=U15-16
+Added Member To Class: ClassName=Controller_driver Member=Component P1 1/4 conn
+Added Member To Class: ClassName=Controller_driver Member=Component U15 LT6375

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetR1_1 Pin=U1-1
+Removed Pin From Net: NetName=NetR1_1 Pin=U1-2
+Removed Pin From Net: NetName=NetC5_2 Pin=U1-3
+Removed Pin From Net: NetName=NetR2_1 Pin=U16-1
+Removed Pin From Net: NetName=NetR37_1 Pin=U16-2
+Removed Pin From Net: NetName=sense Pin=U16-3
+Removed Pin From Net: NetName=-5V Pin=U16-4
+Removed Pin From Net: NetName=5V Pin=U16-8
+Removed Member From Class: ClassName=Controller_driver Member=U16
+Change Component Designator: OldDesignator=U1 NewDesignator=U16
+Added Pin To Net: NetName=NetR1_1 Pin=U2-1
+Added Pin To Net: NetName=NetR1_1 Pin=U2-2
+Added Pin To Net: NetName=NetC5_2 Pin=U2-3
+Added Pin To Net: NetName=NetR2_1 Pin=U16-1
+Added Pin To Net: NetName=NetR37_1 Pin=U16-2
+Added Pin To Net: NetName=sense Pin=U16-3

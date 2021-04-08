@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\HelmHoltz\Controller_driver\Controller_driver.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=controller_driver-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=controller_driver-slotholes.txt|DrillLayers=gtl,gbl

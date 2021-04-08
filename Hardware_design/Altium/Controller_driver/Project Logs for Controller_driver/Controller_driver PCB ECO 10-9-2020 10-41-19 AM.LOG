@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=Sense_amp Pin=C34-2
+Removed Pin From Net: NetName=Sense_amp Pin=R39-2
+Removed Pin From Net: NetName=Sense_amp Pin=U16-6
+Added Component: Designator=R1(RESC1608X55X30LL15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1 kO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Sense_amp Pin=R1-1
+Added Pin To Net: NetName=NetC34_2 Pin=C34-2
+Added Pin To Net: NetName=NetC34_2 Pin=R1-2
+Added Pin To Net: NetName=NetC34_2 Pin=R39-2
+Added Pin To Net: NetName=NetC34_2 Pin=U16-6
+Added Net: Name=NetC34_2
+Added Member To Class: ClassName=Controller_driver Member=Component P1 audio_jack
+Added Member To Class: ClassName=Controller_driver Member=Component R1 1 kO

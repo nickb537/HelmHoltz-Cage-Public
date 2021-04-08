@@ -1,0 +1,1 @@
+The software in the magTest folder can be loaded onto the Teensy 4.0 for use with the Helmholtz Cage.

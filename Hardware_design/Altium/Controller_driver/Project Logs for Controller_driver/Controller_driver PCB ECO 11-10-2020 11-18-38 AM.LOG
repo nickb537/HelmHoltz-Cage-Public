@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=out Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R13-2
+Change Component Footprint: Designator=R13 Old Footprint=RESC1608X55X30ML15T15 New Footprint=RESC1609X50X30LL10T20
+Change Component Comment : Designator=R13 Old Comment=470 New Comment=220
+Change Managed Component Library Link : Designator=R13 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=275E8EDB-5EC5-4492-8C47-5C8B765A0761 New ItemGUID=1FF9C5A1-C763-4650-8E88-F50FB50C4A85 Old RevisionGUID=9C6DA6A0-6412-419B-B6C1-8AD1CFE970BB New RevisionGUID=8712B45D-8EF1-4FE1-8059-9E89DABDC8E4
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RESC1608X55X30ML15T15"; UniqueID = "\WSEMDUEP" ("\WSEMDUEP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0603220RFKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "220"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=out Pin=R13-2

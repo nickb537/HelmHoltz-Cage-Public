@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Controller_driver.PrjPcb]
+   Generated File[Controller_driver.GTO]
+   Generated File[Controller_driver.GTS]
+   Generated File[Controller_driver.GTL]
+   Generated File[Controller_driver.GBL]
+   Generated File[Controller_driver.GBS]
+   Generated File[Controller_driver.GBO]
+   Generated File[Controller_driver.GM4]
+   Generated File[Controller_driver.RUL]
+   Generated File[Controller_driver.EXTREP]
+   Generated File[Controller_driver.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 9:06:54 AM On 1/18/2021

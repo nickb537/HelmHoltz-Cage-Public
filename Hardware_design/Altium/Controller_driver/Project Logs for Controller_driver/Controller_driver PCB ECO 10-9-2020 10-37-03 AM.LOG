@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=VREF Pin=R37-2
+Added Pin To Net: NetName=VBIAS Pin=R37-2

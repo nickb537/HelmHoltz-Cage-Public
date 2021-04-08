@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MagSensor.PrjPcb]
+   Generated File[Magnetic Sensor-Plated.TXT]
+   Generated File[Magnetic Sensor-NonPlated.TXT]
+   Generated File[Magnetic Sensor.LDP]
+   Generated File[Magnetic Sensor.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:45:02 AM On 2/24/2020

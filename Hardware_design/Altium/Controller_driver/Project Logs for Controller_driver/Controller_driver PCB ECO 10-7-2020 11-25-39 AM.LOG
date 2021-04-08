@@ -1,0 +1,4 @@
+Added Component: Designator=JA-(solder_jumper)
+Added Pin To Net: NetName=-REFA Pin=JA--0
+Added Pin To Net: NetName=GND Pin=JA--1
+Added Member To Class: ClassName=Controller_driver Member=Component JA- *
